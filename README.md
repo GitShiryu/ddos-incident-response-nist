@@ -14,9 +14,10 @@
 This project is part of the **Google Cybersecurity Professional Certificate** program on Coursera. The scenario is fictional, but the methodologies align with industry best practices.
 
 ## 👨‍💻 Author
-[Your Name]  
-[Your LinkedIn Profile URL]  
-[Your GitHub Profile URL]
+Eli Martins
+www.linkedin.com/in/eli-martins-5911b82a0
+https://github.com/GitShiryu
+
 
 ## 📜 License
 This project is for educational purposes. Feel free to reuse with credit.
